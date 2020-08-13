@@ -3,7 +3,7 @@ import tensorflow as tf
 import numpy as np
 from collections import deque
 import random
-from tf21_RL.PuckWorld.puckworld import PuckWorldEnv
+from Dueling.puckworld import PuckWorldEnv
 import time
 import os
 import pandas as pd
